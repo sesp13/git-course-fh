@@ -1,6 +1,11 @@
 # Steps to install
-Follow this steps
+1. Follow this steps
 
+```
+yarn install
+```
+
+2. Then this
 ```
 npm install
 ```
