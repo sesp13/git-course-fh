@@ -9,3 +9,9 @@ yarn install
 ```
 npm install
 ```
+
+## Notes
+We should ignore:
+- node_modules
+- .log
+- .editorconfig
